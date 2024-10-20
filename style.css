@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: aqua;
+    padding: 20px;
+    /* display: flex;
+    justify-content: space-between; */
+    position: fixed;
+    width: 100%;
+    margin-bottom: 100px;  
+}
+
+
+a{
+    text-decoration: none;
+}
+h1{
+    background-color: aquamarine;
+    padding: 10px;
+
+   
+}
+body{
+    height: 1000px;
+    background-color: brown;
+}
